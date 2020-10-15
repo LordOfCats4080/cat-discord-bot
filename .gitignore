@@ -1,0 +1,12 @@
+.env
+config.*
+/private
+/__pycache__
+/node_modules
+.pem
+.pub
+.cer
+.unknown
+.vir
+.eslint
+.eslintrc.*

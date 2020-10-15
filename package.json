@@ -1,0 +1,25 @@
+{
+  "name": "cat-discord-bot",
+  "version": "1.0.0",
+  "description": "Meow!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordOfCats4080/cat-discord-bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot",
+    "discord-bot"
+  ],
+  "author": "LordOfCats4080 <lordofcats4080@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordOfCats4080/cat-discord-bot/issues"
+  },
+  "homepage": "https://github.com/LordOfCats4080/cat-discord-bot#readme"
+}
